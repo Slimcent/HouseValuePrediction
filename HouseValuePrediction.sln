@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseValuePrediction", "HouseValuePrediction.csproj", "{438550F4-4779-4008-A842-FFD25C02FA6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseValuePrediction", "HouseValuePrediction.csproj", "{438550F4-4779-4008-A842-FFD25C02FA6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLHouseValuePrediction", "..\MLHouseValuePrediction\MLHouseValuePrediction.csproj", "{524F37A4-14EE-4CF7-8068-AF1B37A4ED4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{438550F4-4779-4008-A842-FFD25C02FA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{438550F4-4779-4008-A842-FFD25C02FA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{438550F4-4779-4008-A842-FFD25C02FA6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524F37A4-14EE-4CF7-8068-AF1B37A4ED4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524F37A4-14EE-4CF7-8068-AF1B37A4ED4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524F37A4-14EE-4CF7-8068-AF1B37A4ED4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524F37A4-14EE-4CF7-8068-AF1B37A4ED4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
